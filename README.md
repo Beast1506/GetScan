@@ -2,9 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-getScan is a web-based application designed to simplify file sharing using QR codes. Users can easily upload files, and the system generates unique QR codes for each file, enabling quick and convenient downloads. This project was developed by Jailaxmi Pujari, Siddhanth Naik, Sonam Vishwakarma, Sunny Gaonkar, Sweta Khandeparkar, Sanket Khutkar, Saikiran Yadu, and Bhavika Malviya.
-
-**[Link to your GitHub repository goes here!]**
+getScan is a web-based application designed to simplify file sharing using QR codes. Users can easily upload files, and the system generates unique QR codes for each file, enabling quick and convenient downloads.
 
 ## Project Overview
 
@@ -71,19 +69,6 @@ Contributions are welcome! If you find any issues or have suggestions, please op
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-This project was developed by:
-
-* Jailaxmi Pujari (20308)
-* Siddhanth Naik (20332)
-* Sonam Vishwakarma (20334)
-* Sunny Gaonkar (20335)
-* Sweta Khandeparkar (20338)
-* Sanket Khutkar (20339)
-* Saikiran Yadu (20341)
-* Bhavika Malviya (20342)
 
 ## References
 
